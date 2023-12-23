@@ -55,8 +55,4 @@ Circuits VLSI circuits rely on intricate mathematical models, often resulting in
    ```
 ![Distributions of PLots](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/619a9c62-7139-4366-b924-bce1b645fe18)
 
-  ```bash
-    git clone https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits.git
-    ```
-
 
