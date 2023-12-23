@@ -1,15 +1,14 @@
-# PARASITIC_AnalysisOF-RLC-Circuits
-The prevailing techniques for estimating power, RParasitic R,
-C, and Power Estimation Analysis for Adder Family
-Circuits VLSI circuits rely on intricate mathematical models, often resulting in inaccuracies when applied to unique circuit architectures. Adders, fundamental to circuit design, necessitate precise analysis considering factors like parasitic capacitance (C), resistance (R), power consumption, and maximum operating current. Addressing these challenges demands specific and accurate methodologies.
-
-# VLSI Circuit Analysis using Machine Learning for RLC Parasitic Estimation in Adder Circuits
+# **VLSI** Circuit Analysis using **Machine** **Learning** for RLC **Parasitic** Estimation in Circuits
 
 This repository contains code and resources related to the application of machine learning algorithms for accurate estimation of parasitic resistance (R), parasitic capacitance (C), and power consumption in Very Large Scale Integration (VLSI) adder circuits. The goal is to address the challenges posed by traditional methods when analyzing the impact of parasitic elements on circuit performance.
 
 ## Overview
-
 VLSI circuits often face estimation errors when conventional techniques are used to analyze parasitic effects such as R, C, and power consumption in adder circuits with unique architectures. To tackle this, the project explores the implementation of machine learning algorithms for more precise and tailored estimations.
+
+# PARASITIC_AnalysisOF-RLC-Circuits
+The prevailing techniques for estimating power, RParasitic R,
+C, and Power Estimation Analysis for Adder Family
+Circuits VLSI circuits rely on intricate mathematical models, often resulting in inaccuracies when applied to unique circuit architectures. Adders, fundamental to circuit design, necessitate precise analysis considering factors like parasitic capacitance (C), resistance (R), power consumption, and maximum operating current. Addressing these challenges demands specific and accurate methodologies.
 
 ## Methodology
 
@@ -33,8 +32,7 @@ VLSI circuits often face estimation errors when conventional techniques are used
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/vlsi-circuit-analysis.git
-    cd vlsi-circuit-analysis
+    git clone https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits.git
     ```
 
 2. Navigate to the specific folders (`code/`, `datasets/`, `results/`) to access the respective resources and code implementations.
