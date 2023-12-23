@@ -19,7 +19,7 @@ Circuits VLSI circuits rely on intricate mathematical models, often resulting in
 ### Machine Learning Models
 - **Linear Regression:** Used to create a power estimation model with an exceptional 99.99% accuracy in model fitting.
 - **Estimation of R and C:** The same regression method resulted in observed accuracies of 73.17% and 90.98%, respectively, when other parameters were maintained as independent variables.
-- **K-means Clustering:** Employed for grouping R, L, C, and power within ranges spanning minimum to maximum values, achieving 100% accuracy with 8 clusters.
+- **K-means Clustering:** Employed for grouping R, L, C, and power within ranges spanning minimum to maximum values, achieving 89.32% accuracy with 8 clusters.
 
 ## Repository Structure
 
@@ -41,3 +41,11 @@ Circuits VLSI circuits rely on intricate mathematical models, often resulting in
 
 - Python 3.x
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib
+
+## PLOT"Ss
+
+    ```bash
+    PAIR-PLOT ; ![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/16bada73-5021-40c2-90d9-39dacc75e827)
+
+    ```
+![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/5448d991-1edd-488a-93a5-f7940bff2165)
