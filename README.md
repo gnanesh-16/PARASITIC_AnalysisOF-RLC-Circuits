@@ -45,7 +45,15 @@ Circuits VLSI circuits rely on intricate mathematical models, often resulting in
 ## PLOT"Ss
 
     ```bash
-    PAIR-PLOT ; ![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/16bada73-5021-40c2-90d9-39dacc75e827)
+    PAIR-PLOT ; ![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/blob/main/Algorithm_Img's/Pair_plot.png)
 
     ```
 ![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/5448d991-1edd-488a-93a5-f7940bff2165)
+
+    ```bash
+    Distribution-PLOT ; ![Pair_plot](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/blob/main/Algorithm_Img's/Distributions%20of%20PLots.png)
+
+    ```
+![Distributions of PLots](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits/assets/98212179/619a9c62-7139-4366-b924-bce1b645fe18)
+
+ 
